@@ -1,4 +1,4 @@
-# Recommender-systems
+# Recommended-systems
 
 Recommendation System Notebook
 
